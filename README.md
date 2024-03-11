@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Technologies
 - 💞️ I’m looking to collaborate on Frontend Stuffs as well as Backend Stuff.
 - 📫 Reach me at my Linkedin https://in.linkedin.com/in/sagar-gupta-8b2660172
--     You can also connect me through mail i.e this.gupta.sagar@gmail.com
+-     You can also connect me through mail i.e sagargupta.gola@gmail.com
 
 <!---
 HeyitzSagar/HeyitzSagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
