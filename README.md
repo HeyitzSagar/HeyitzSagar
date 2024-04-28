@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @Stunning Sagar
-- 👀 I’m interested in Full Stack Development, Competetive Programming as well.
-- 🌱 I’m currently learning Frontend Technologies
-- 💞️ I’m looking to collaborate on Frontend Stuffs as well as Backend Stuff.
-- 📫 Reach me at my Linkedin https://in.linkedin.com/in/sagar-gupta-8b2660172
--     You can also connect me through mail i.e sagargupta.gola@gmail.com
+## Hi there, I'm Sagar Gupta! 👋
 
-<!---
-HeyitzSagar/HeyitzSagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full Stack Developer with a passion for building robust web applications. I also enjoy diving into Competitive Programming challenges in my free time. Currently, I'm focusing on mastering Frontend Technologies to enhance my skill set.
+
+### Skills
+
+- Full Stack Development
+- Frontend Technologies: HTML, CSS, JavaScript, React
+- Backend Technologies: Node.js, Express.js, MongoDB
+- Competitive Programming: Algorithms, Data Structures
+- Containerization: Docker, Kubernetes, AWS 
+
+
+### Collaboration
+
+I'm open to collaborating on both Frontend and Backend projects. Whether it's building a new application or contributing to an existing one, I'm eager to work with like-minded developers to create something awesome.
+
+### Let's Connect!
+
+- LinkedIn [Sagar Gupta](https://in.linkedin.com/in/sagar-gupta-8b2660172)
+- Email: [sagargupta.gola@gmail.com](mailto:sagargupta.gola@gmail.com)
+- GitHub: [HeyitzSagar](https://github.com/HeyitzSagar)
+- Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+### Get in Touch
+
+Feel free to reach out if you're interested in collaborating on a project, have any questions, or want to connect!
+
+---
