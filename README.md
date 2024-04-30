@@ -1,6 +1,6 @@
-## Hi there, I'm Sagar Gupta! 👋
+## Hi there, I'm Sagar Gupta and I love JavaScript! 👋
 
-I'm a Full Stack Developer with a passion for building robust web applications. I also enjoy diving into Competitive Programming challenges in my free time. Currently, I'm focusing on mastering Frontend Technologies to enhance my skill set.
+I'm a Full Stack Developer passionate about building robust web applications. I also enjoy diving into Competitive Programming challenges in my free time. Currently, I'm focusing on mastering Frontend Technologies to enhance my skill set.
 
 ### Skills
 
