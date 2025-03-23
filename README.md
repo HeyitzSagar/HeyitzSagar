@@ -27,7 +27,7 @@ githubUsername: 'HeyitzSagar'
 ---
 
 ## 🚀 About Me
-- 💻 **Full Stack Developer** with **3+ years** of experience in **React, Node.js, MongoDB, Express**.
+- 💻 **Full Stack Developer** with **2.5+ years** of experience in **React, Node.js, MongoDB, Express**.
 - 🌟 Passionate about **web development, scalable architectures, and DevOps**.
 - 🔥 Active in **Competitive Programming** & **Open Source**.
 - 🎯 Currently learning **Next.js, GraphQL, and System Design**.
